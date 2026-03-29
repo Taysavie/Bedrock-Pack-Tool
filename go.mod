@@ -5,6 +5,7 @@ go 1.23.5
 require (
 	fyne.io/fyne/v2 v2.5.4
 	github.com/gameparrot/gifdl v0.1.1
+	github.com/klauspost/compress v1.18.0
 	github.com/nwaples/rardecode v1.1.3
 	github.com/quic-go/quic-go v0.50.0
 	github.com/swim-services/swim_porter v0.16.0
@@ -38,7 +39,6 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/jeandeaual/go-locale v0.0.0-20241217141322-fcc2cadd6f08 // indirect
 	github.com/jsummers/gobmp v0.0.0-20230614200233-a9de23ed2e25 // indirect
-	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mailru/easyjson v0.9.0 // indirect
 	github.com/muhammadmuzzammil1998/jsonc v1.0.0 // indirect
